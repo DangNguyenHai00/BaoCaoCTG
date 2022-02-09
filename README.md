@@ -1,5 +1,5 @@
 # BaoCaoCTG
-Final project for Time Series (129873) class
+Final project of Time Series (129873) class
 
 Members of the group
 
